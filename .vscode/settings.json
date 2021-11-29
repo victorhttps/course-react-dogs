@@ -6,6 +6,7 @@
     "package.json": true,
     "package-lock.json": true,
     "public": true,
-	"yarn.lock": true
+    "yarn.lock": true,
+	"README.md": true
   }
 }
